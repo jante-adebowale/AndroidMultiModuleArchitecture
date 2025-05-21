@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppEntryTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#ffffff</item>
+        <item name="splashScreenIconSize">100dp</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo_dark</item>
+        <item name="postSplashScreenTheme">@style/Theme.AndroidMultiModuleArchitecture</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_back">Back</string>
+    <string name="login">Login</string>
+    <string name="login_header">Android Multi Module Architecture</string>
+    <string name="welcome_back">Sign in to continue</string>
+    <string name="register_btn_label">Register</string>
+    <string name="welcome_register">Register to gain Access</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_success_message">Registration Successful</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="home_title">MTM Banking App</string>
+    <string name="home">Home Screen</string>
+    <string name="load_biodata">Load BioData</string>
+    <string name="logout">Log Out</string>
+    <string name="confirm_logout_message">You are about to logout your account?</string>
+    <string name="auth_me">Auth Me (Secured Endpoint)</string>
+    <string name="ok">Ok</string>
+    <string name="purchase">Purchase</string>
+    <string name="cash">Cash</string>
+    <string name="refund">Refund</string>
+    <string name="purchase_subtitle">This screen is for Purchase</string>
+    <string name="cash_subtitle">This screen is for Cash</string>
+</resources>
