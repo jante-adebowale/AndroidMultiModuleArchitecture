@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
+      <module name="AndroidMultiModuleArchitecture.core.datastore" target="21" />
       <module name="AndroidMultiModuleArchitecture.feature.cashwithdrawal" target="21" />
       <module name="AndroidMultiModuleArchitecture.feature.refund" target="21" />
     </bytecodeTargetLevel>

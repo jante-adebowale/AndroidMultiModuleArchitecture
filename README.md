@@ -7,9 +7,9 @@ Connects to a Ktor backend [here](https://github.com/jante-adebowale/ktor-jwt-au
 It demonstrates a full login, auto-refresh token handling, and auto-logout flow for secure user sessions.
 
 ### 📸 Screenshots (Light theme)
-![Screenshot showing Login, Registration Screen and Home screen](https://github.com/jante-adebowale/AndroidMultiModuleArchitecture/blob/master/screenshots/mtm_light.jpg?raw=true "Screenshot showing Login and Home screen")
+![Screenshot showing Login and Home screen](https://github.com/jante-adebowale/AndroidMultiModuleArchitecture/blob/master/screenshots/mtm_light.jpg?raw=true "Screenshot showing Login and Home screen")
 ### 📸 Screenshots (Dark theme)
-![Screenshot showing Login, Registration Screen and Home screen](https://github.com/jante-adebowale/AndroidMultiModuleArchitecture/blob/master/screenshots/mtm_dark.jpg?raw=true "Screenshot showing Login and Home screen")
+![Screenshot showing Login and Home screen](https://github.com/jante-adebowale/AndroidMultiModuleArchitecture/blob/master/screenshots/mtm_dark.jpg?raw=true "Screenshot showing Login and Home screen")
 
 ## ✨Features
 
