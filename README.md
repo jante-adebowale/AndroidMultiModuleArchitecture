@@ -3,6 +3,8 @@
 ## Overview
 A robust and scalable Android project template demonstrating modern multi-module architecture with Kotlin and Jetpack Compose. It features clean separation of concerns across layers and supports both MVVM and MVI architectural patterns for feature modules.
 
+Studying this project will provide valuable insights into effectively modularizing your Android app while adopting best practices for code organization, navigation and build configuration. It serves as a practical example of Android app modularization done right.
+
 Connects to a Ktor backend [here](https://github.com/jante-adebowale/ktor-jwt-auth) using JWT (JSON Web Token) authentication.
 It demonstrates a full login, auto-refresh token handling, and auto-logout flow for secure user sessions.
 
@@ -33,6 +35,10 @@ Navigating between features in a multi-module Android project can quickly become
 -  Better refactoring support: IDE-aware navigation paths make renaming and restructuring simpler
 -  Decoupled modules: Modules expose navigation APIs rather than direct implementation details, preserving encapsulation
 -  Koin for Dependency Injection
+
+For more information on modularizing
+your Android app, refer to the
+[Guide to Android App Modularization](https://developer.android.com/topic/modularization).
 
 ## 🧰 Tech Stack
 
